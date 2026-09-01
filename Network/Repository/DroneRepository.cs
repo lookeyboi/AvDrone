@@ -1,6 +1,6 @@
 using MongoDB.Bson;
 using MongoDB.Driver;
-using Network.Models;
+using Network.Models.Drone;
 
 public interface IDroneRepository
 {

@@ -36,3 +36,4 @@
 /Users/luke/Documents/drone_repo/AvDrone/Network/bin/Debug/net8.0/SharpCompress.dll
 /Users/luke/Documents/drone_repo/AvDrone/Network/bin/Debug/net8.0/Snappier.dll
 /Users/luke/Documents/drone_repo/AvDrone/Network/bin/Debug/net8.0/ZstdSharp.dll
+/Users/luke/Documents/drone_repo/AvDrone/Network/obj/Debug/net8.0/Network.sourcelink.json
