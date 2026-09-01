@@ -21,7 +21,7 @@ public class DroneService : IDroneService
         {
             throw new ArgumentException("Invalid drone id format.");
         }
-
+        // document retrieval
         var drone = await _droneRepository.GetByIdAsync(objectId) ?? throw new KeyNotFoundException($"Drone with id '{id}' was not found.");
         return new DroneResponse
         {
